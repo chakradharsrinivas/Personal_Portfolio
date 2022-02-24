@@ -1,6 +1,6 @@
 # Django-personal-website
 
-This is a Django-based personal website I created for myself. The current theme from my previous portfolio website. The live link can be found [https://chakradharportfolio.herokuapp.com/](here)
+This is a Django-based personal website I created for myself. The current theme from my previous portfolio website. The live link can be found [here](https://chakradharportfolio.herokuapp.com/)
 I am releasing the full source code for the site so that others may benefit from the code I've written.
 
 # Installation and Running
